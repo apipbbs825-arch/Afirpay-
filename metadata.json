@@ -1,0 +1,6 @@
+{
+  "name": "Top Up Game QRIS",
+  "description": "Layanan top up game otomatis dengan pembayaran QRIS dan E-Wallet instant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
